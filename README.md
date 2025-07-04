@@ -1,5 +1,5 @@
 
-[![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)](https://phuongnguyen.pages.dev)
+[![MasterHead](svg/bannerr.gif)](https://phuongnguyen.pages.dev)
 <a href="#" target="_blank">
   <img src="svg/phuongnguyen.svg" width="1200" alt="PhuongNguyenHNM" />
 </a>
