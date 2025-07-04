@@ -5,6 +5,7 @@
 </a>
 <h1 align="center">Hi 👋, I'm Phuong</h1>
 <h3 align="center">As an automation engineer</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PhuongNguyenHNM&label=Profile%20views&color=0e75b6&style=flat" alt="PhuongNguyenHNM" /> </p>
 
 - 🔭 I am currently working in the operation and repair of automation equipment**
 
