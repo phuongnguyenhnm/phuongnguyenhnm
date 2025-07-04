@@ -1,7 +1,7 @@
+[![MasterHead](svg/phuongnguyen.svg)](https://phuongnguyen.pages.dev)
 <a href="#" target="_blank">
-  <img src="svg/phuongnguyen.svg" width="1200" alt="PhuongNguyenHNM" />
+  <img src="svg/bannerr.gif" width="1200" alt="PhuongNguyenHNM" />
 </a>
-[![MasterHead](svg/bannerr.gif)](https://phuongnguyen.pages.dev)
 <h1 align="center">Hi 👋, I'm Phuong</h1>
 <h3 align="center">As an automation engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PhuongNguyenHNM&label=Profile%20views&color=0e75b6&style=flat" alt="PhuongNguyenHNM" /> </p>
