@@ -1,6 +1,6 @@
-[![MasterHead](svg/phuongnguyen.svg)](https://phuongnguyen.pages.dev)
+[![MasterHead](svg/bannerr.gif)](https://phuongnguyen.pages.dev)
 <a href="#" target="_blank">
-  <img src="svg/bannerr.gif" width="1200" alt="PhuongNguyenHNM" />
+  <img src="svg/phuongnguyen.svg" width="1200" alt="PhuongNguyenHNM" />
 </a>
 <h1 align="center">Hi 👋, I'm Phuong</h1>
 <h3 align="center">As an automation engineer</h3>
